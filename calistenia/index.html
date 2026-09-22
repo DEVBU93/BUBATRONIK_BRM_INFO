@@ -29,6 +29,7 @@
         <div class="hero-chip"><span>Lema</span><strong>Técnica &gt; Ego</strong></div>
         <div class="hero-chip"><span>Ritmo</span><strong>Progreso, no días</strong></div>
         <button class="theme-toggle" data-theme-toggle aria-label="Cambiar tema">◐</button>
+        <a class="return-link" href="https://brm.worldmos.info" target="_blank" rel="noopener noreferrer">↩ Volver a BRM</a>
       </div>
     </div>
   </header>
@@ -49,7 +50,7 @@
       </section>
       <section class="sidebar-card">
         <p class="kicker">Base del programa</p>
-        <button class="zoomable" data-zoom-src="/assets/img/0 - FICHA CALENTAMIENTO 5 MIN + VUELTA A LA CALMA.webp" data-zoom-alt="Calentamiento y vuelta a la calma">
+        <button class="zoomable" type="button" data-zoom-src="/assets/img/0 - FICHA CALENTAMIENTO 5 MIN + VUELTA A LA CALMA.webp" data-zoom-alt="Calentamiento y vuelta a la calma">
           <img src="/assets/img/0 - FICHA CALENTAMIENTO 5 MIN + VUELTA A LA CALMA.webp" alt="Calentamiento y vuelta a la calma" width="800" height="800" loading="lazy">
         </button>
       </section>
@@ -64,8 +65,10 @@
   </main>
 
   <dialog id="zoom-modal" class="zoom-modal">
-    <button class="zoom-modal__close" id="zoom-close" aria-label="Cerrar zoom">✕</button>
-    <img id="zoom-image" src="" alt="" width="1400" height="1400">
+    <div class="zoom-modal__wrap">
+      <button class="zoom-modal__close" id="zoom-close" aria-label="Cerrar zoom">✕</button>
+      <img id="zoom-image" src="" alt="" width="1400" height="1400">
+    </div>
   </dialog>
 
   <script src="./calistenia.js" defer></script>
