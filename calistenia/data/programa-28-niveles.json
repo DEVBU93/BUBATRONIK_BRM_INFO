@@ -3,224 +3,308 @@
     "nivel": 1,
     "semana": 1,
     "titulo": "Día 1",
-    "tipo": "",
     "assetEntrenamiento": "/assets/img/DIA1.webp",
-    "fichasTecnicas": []
+    "alternatives": [
+      "/assets/img/DIA1.jpg",
+      "/assets/img/Dia1.webp",
+      "/assets/img/Dia1.jpg"
+    ]
   },
   {
     "nivel": 2,
     "semana": 1,
     "titulo": "Día 2",
-    "tipo": "",
     "assetEntrenamiento": "/assets/img/DIA2.webp",
-    "fichasTecnicas": []
+    "alternatives": [
+      "/assets/img/DIA2.jpg",
+      "/assets/img/Dia2.webp",
+      "/assets/img/Dia2.jpg"
+    ]
   },
   {
     "nivel": 3,
     "semana": 1,
     "titulo": "Día 3",
-    "tipo": "",
     "assetEntrenamiento": "/assets/img/DIA3.webp",
-    "fichasTecnicas": []
+    "alternatives": [
+      "/assets/img/DIA3.jpg",
+      "/assets/img/Dia3.webp",
+      "/assets/img/Dia3.jpg"
+    ]
   },
   {
     "nivel": 4,
     "semana": 1,
     "titulo": "Día 4",
-    "tipo": "",
     "assetEntrenamiento": "/assets/img/DIA4.webp",
-    "fichasTecnicas": []
+    "alternatives": [
+      "/assets/img/DIA4.jpg",
+      "/assets/img/Dia4.webp",
+      "/assets/img/Dia4.jpg"
+    ]
   },
   {
     "nivel": 5,
     "semana": 1,
     "titulo": "Día 5",
-    "tipo": "",
     "assetEntrenamiento": "/assets/img/DIA5.webp",
-    "fichasTecnicas": []
+    "alternatives": [
+      "/assets/img/DIA5.jpg",
+      "/assets/img/Dia5.webp",
+      "/assets/img/Dia5.jpg"
+    ]
   },
   {
     "nivel": 6,
     "semana": 1,
     "titulo": "Día 6",
-    "tipo": "",
     "assetEntrenamiento": "/assets/img/DIA6.webp",
-    "fichasTecnicas": []
+    "alternatives": [
+      "/assets/img/DIA6.jpg",
+      "/assets/img/Dia6.webp",
+      "/assets/img/Dia6.jpg"
+    ]
   },
   {
     "nivel": 7,
     "semana": 1,
     "titulo": "Día 7",
-    "tipo": "",
     "assetEntrenamiento": "/assets/img/DIA7.webp",
-    "fichasTecnicas": []
+    "alternatives": [
+      "/assets/img/DIA7.jpg",
+      "/assets/img/Dia7.webp",
+      "/assets/img/Dia7.jpg"
+    ]
   },
   {
     "nivel": 8,
     "semana": 2,
     "titulo": "Día 8",
-    "tipo": "",
     "assetEntrenamiento": "/assets/img/DIA8.webp",
-    "fichasTecnicas": []
+    "alternatives": [
+      "/assets/img/DIA8.jpg",
+      "/assets/img/Dia8.webp",
+      "/assets/img/Dia8.jpg"
+    ]
   },
   {
     "nivel": 9,
     "semana": 2,
     "titulo": "Día 9",
-    "tipo": "",
     "assetEntrenamiento": "/assets/img/DIA9.webp",
-    "fichasTecnicas": []
+    "alternatives": [
+      "/assets/img/DIA9.jpg",
+      "/assets/img/Dia9.webp",
+      "/assets/img/Dia9.jpg"
+    ]
   },
   {
     "nivel": 10,
     "semana": 2,
     "titulo": "Día 10",
-    "tipo": "",
     "assetEntrenamiento": "/assets/img/DIA10.webp",
-    "fichasTecnicas": []
+    "alternatives": [
+      "/assets/img/DIA10.jpg",
+      "/assets/img/Dia10.webp",
+      "/assets/img/Dia10.jpg"
+    ]
   },
   {
     "nivel": 11,
     "semana": 2,
     "titulo": "Día 11",
-    "tipo": "",
     "assetEntrenamiento": "/assets/img/DIA11.webp",
-    "fichasTecnicas": []
+    "alternatives": [
+      "/assets/img/DIA11.jpg",
+      "/assets/img/Dia11.webp",
+      "/assets/img/Dia11.jpg"
+    ]
   },
   {
     "nivel": 12,
     "semana": 2,
     "titulo": "Día 12",
-    "tipo": "",
     "assetEntrenamiento": "/assets/img/DIA12.webp",
-    "fichasTecnicas": []
+    "alternatives": [
+      "/assets/img/DIA12.jpg",
+      "/assets/img/Dia12.webp",
+      "/assets/img/Dia12.jpg"
+    ]
   },
   {
     "nivel": 13,
     "semana": 2,
     "titulo": "Día 13",
-    "tipo": "",
     "assetEntrenamiento": "/assets/img/DIA13.webp",
-    "fichasTecnicas": []
+    "alternatives": [
+      "/assets/img/DIA13.jpg",
+      "/assets/img/Dia13.webp",
+      "/assets/img/Dia13.jpg"
+    ]
   },
   {
     "nivel": 14,
     "semana": 2,
     "titulo": "Día 14",
-    "tipo": "",
     "assetEntrenamiento": "/assets/img/DIA14.webp",
-    "fichasTecnicas": []
+    "alternatives": [
+      "/assets/img/DIA14.jpg",
+      "/assets/img/Dia14.webp",
+      "/assets/img/Dia14.jpg"
+    ]
   },
   {
     "nivel": 15,
     "semana": 3,
     "titulo": "Día 15",
-    "tipo": "",
     "assetEntrenamiento": "/assets/img/DIA15.webp",
-    "fichasTecnicas": []
+    "alternatives": [
+      "/assets/img/DIA15.jpg",
+      "/assets/img/Dia15.webp",
+      "/assets/img/Dia15.jpg"
+    ]
   },
   {
     "nivel": 16,
     "semana": 3,
     "titulo": "Día 16",
-    "tipo": "",
     "assetEntrenamiento": "/assets/img/DIA16.webp",
-    "fichasTecnicas": []
+    "alternatives": [
+      "/assets/img/DIA16.jpg",
+      "/assets/img/Dia16.webp",
+      "/assets/img/Dia16.jpg"
+    ]
   },
   {
     "nivel": 17,
     "semana": 3,
     "titulo": "Día 17",
-    "tipo": "",
     "assetEntrenamiento": "/assets/img/DIA17.webp",
-    "fichasTecnicas": []
+    "alternatives": [
+      "/assets/img/DIA17.jpg",
+      "/assets/img/Dia17.webp",
+      "/assets/img/Dia17.jpg"
+    ]
   },
   {
     "nivel": 18,
     "semana": 3,
     "titulo": "Día 18",
-    "tipo": "",
     "assetEntrenamiento": "/assets/img/DIA18.webp",
-    "fichasTecnicas": []
+    "alternatives": [
+      "/assets/img/DIA18.jpg",
+      "/assets/img/Dia18.webp",
+      "/assets/img/Dia18.jpg"
+    ]
   },
   {
     "nivel": 19,
     "semana": 3,
     "titulo": "Día 19",
-    "tipo": "",
     "assetEntrenamiento": "/assets/img/DIA19.webp",
-    "fichasTecnicas": []
+    "alternatives": [
+      "/assets/img/DIA19.jpg",
+      "/assets/img/Dia19.webp",
+      "/assets/img/Dia19.jpg"
+    ]
   },
   {
     "nivel": 20,
     "semana": 3,
     "titulo": "Día 20",
-    "tipo": "",
     "assetEntrenamiento": "/assets/img/DIA20.webp",
-    "fichasTecnicas": []
+    "alternatives": [
+      "/assets/img/DIA20.jpg",
+      "/assets/img/Dia20.webp",
+      "/assets/img/Dia20.jpg"
+    ]
   },
   {
     "nivel": 21,
     "semana": 3,
     "titulo": "Día 21",
-    "tipo": "",
     "assetEntrenamiento": "/assets/img/DIA21.webp",
-    "fichasTecnicas": []
+    "alternatives": [
+      "/assets/img/DIA21.jpg",
+      "/assets/img/Dia21.webp",
+      "/assets/img/Dia21.jpg"
+    ]
   },
   {
     "nivel": 22,
     "semana": 4,
     "titulo": "Día 22",
-    "tipo": "",
     "assetEntrenamiento": "/assets/img/DIA22.webp",
-    "fichasTecnicas": []
+    "alternatives": [
+      "/assets/img/DIA22.jpg",
+      "/assets/img/Dia22.webp",
+      "/assets/img/Dia22.jpg"
+    ]
   },
   {
     "nivel": 23,
     "semana": 4,
     "titulo": "Día 23",
-    "tipo": "",
     "assetEntrenamiento": "/assets/img/DIA23.webp",
-    "fichasTecnicas": []
+    "alternatives": [
+      "/assets/img/DIA23.jpg",
+      "/assets/img/Dia23.webp",
+      "/assets/img/Dia23.jpg"
+    ]
   },
   {
     "nivel": 24,
     "semana": 4,
     "titulo": "Día 24",
-    "tipo": "",
     "assetEntrenamiento": "/assets/img/DIA24.webp",
-    "fichasTecnicas": []
+    "alternatives": [
+      "/assets/img/DIA24.jpg",
+      "/assets/img/Dia24.webp",
+      "/assets/img/Dia24.jpg"
+    ]
   },
   {
     "nivel": 25,
     "semana": 4,
     "titulo": "Día 25",
-    "tipo": "",
     "assetEntrenamiento": "/assets/img/DIA25.webp",
-    "fichasTecnicas": []
+    "alternatives": [
+      "/assets/img/DIA25.jpg",
+      "/assets/img/Dia25.webp",
+      "/assets/img/Dia25.jpg"
+    ]
   },
   {
     "nivel": 26,
     "semana": 4,
     "titulo": "Día 26",
-    "tipo": "",
     "assetEntrenamiento": "/assets/img/DIA26.webp",
-    "fichasTecnicas": []
+    "alternatives": [
+      "/assets/img/DIA26.jpg",
+      "/assets/img/Dia26.webp",
+      "/assets/img/Dia26.jpg"
+    ]
   },
   {
     "nivel": 27,
     "semana": 4,
     "titulo": "Día 27",
-    "tipo": "",
     "assetEntrenamiento": "/assets/img/DIA27.webp",
-    "fichasTecnicas": []
+    "alternatives": [
+      "/assets/img/DIA27.jpg",
+      "/assets/img/Dia27.webp",
+      "/assets/img/Dia27.jpg"
+    ]
   },
   {
     "nivel": 28,
     "semana": 4,
     "titulo": "Día 28",
-    "tipo": "",
     "assetEntrenamiento": "/assets/img/DIA28.webp",
-    "fichasTecnicas": []
+    "alternatives": [
+      "/assets/img/DIA28.jpg",
+      "/assets/img/Dia28.webp",
+      "/assets/img/Dia28.jpg"
+    ]
   }
 ]

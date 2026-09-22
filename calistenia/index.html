@@ -1,32 +1,72 @@
 
 <!DOCTYPE html>
-<html lang="es">
+<html lang="es" data-theme="dark">
 <head>
   <meta charset="utf-8">
-  <title>Calistenia Bubatronik · 28 niveles</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="calistenia.css">
+  <title>Calistenia Bubatronik · 28 niveles</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Rubik+Mono+One&family=Manrope:wght@400;500;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./calistenia.css">
 </head>
 <body>
-  <header>
-    <h1>Calistenia Bubatronik · 28 niveles</h1>
-    <p>Técnica > Ego · Progreso, no días</p>
+  <a class="skip-link" href="#contenido">Saltar al contenido</a>
+
+  <header class="hero">
+    <div class="hero__noise"></div>
+    <div class="hero__inner">
+      <div class="brand-mark" aria-label="Bubatronik Calistenia">
+        <span class="brand-mark__core"></span>
+        <span class="brand-mark__ring"></span>
+      </div>
+      <div class="hero__copy">
+        <p class="eyebrow">BUBATRONIK RADIO · CUERPO Y RITMO</p>
+        <h1>Calistenia<br>de la Manada</h1>
+        <p class="hero__text">Entrena con el programa real de 28 niveles, mantén el ritmo, marca tu avance y usa las fichas visuales sin salir de BRM.</p>
+      </div>
+      <div class="hero__meta">
+        <div class="meta-card">
+          <span class="meta-card__label">Lema</span>
+          <strong>Técnica &gt; Ego</strong>
+        </div>
+        <div class="meta-card">
+          <span class="meta-card__label">Pulso</span>
+          <strong>Progreso, no días</strong>
+        </div>
+        <button class="theme-toggle" data-theme-toggle aria-label="Cambiar tema">◐</button>
+      </div>
+    </div>
   </header>
 
-  <nav class="tabs">
-    <button data-tab="entrenar">Entrenar</button>
-    <button data-tab="progreso">Progreso</button>
-    <button data-tab="tecnica">Técnica</button>
-    <button data-tab="torneo">Torneo</button>
-  </nav>
+  <main id="contenido" class="layout">
+    <aside class="sidebar">
+      <nav class="tabs" aria-label="Secciones de Calistenia">
+        <button class="tabs__button active" data-tab="entrenar">Entrenar</button>
+        <button class="tabs__button" data-tab="progreso">Progreso</button>
+        <button class="tabs__button" data-tab="tecnica">Técnica</button>
+        <button class="tabs__button" data-tab="torneo">Torneo</button>
+      </nav>
 
-  <main>
-    <section id="tab-entrenar"></section>
-    <section id="tab-progreso" hidden></section>
-    <section id="tab-tecnica" hidden></section>
-    <section id="tab-torneo" hidden></section>
+      <section class="status-panel">
+        <p class="status-panel__label">Estado actual</p>
+        <h2 id="resumen-nivel">Nivel 1 · Semana 1</h2>
+        <p id="resumen-estado">Pendiente de completar</p>
+        <div class="progress-pill">
+          <span id="progreso-hecho">0</span>
+          <span>/ 28</span>
+        </div>
+      </section>
+    </aside>
+
+    <section class="content-stack">
+      <section id="tab-entrenar" class="panel panel--active"></section>
+      <section id="tab-progreso" class="panel" hidden></section>
+      <section id="tab-tecnica" class="panel" hidden></section>
+      <section id="tab-torneo" class="panel" hidden></section>
+    </section>
   </main>
 
-  <script src="calistenia.js"></script>
+  <script src="./calistenia.js" defer></script>
 </body>
 </html>
