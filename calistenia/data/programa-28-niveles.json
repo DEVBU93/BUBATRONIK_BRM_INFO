@@ -3,308 +3,168 @@
     "nivel": 1,
     "semana": 1,
     "titulo": "Día 1",
-    "assetEntrenamiento": "/assets/img/DIA1.webp",
-    "alternatives": [
-      "/assets/img/DIA1.jpg",
-      "/assets/img/Dia1.webp",
-      "/assets/img/Dia1.jpg"
-    ]
+    "assetEntrenamiento": "/assets/img/DIA1.webp"
   },
   {
     "nivel": 2,
     "semana": 1,
     "titulo": "Día 2",
-    "assetEntrenamiento": "/assets/img/DIA2.webp",
-    "alternatives": [
-      "/assets/img/DIA2.jpg",
-      "/assets/img/Dia2.webp",
-      "/assets/img/Dia2.jpg"
-    ]
+    "assetEntrenamiento": "/assets/img/DIA2.webp"
   },
   {
     "nivel": 3,
     "semana": 1,
     "titulo": "Día 3",
-    "assetEntrenamiento": "/assets/img/DIA3.webp",
-    "alternatives": [
-      "/assets/img/DIA3.jpg",
-      "/assets/img/Dia3.webp",
-      "/assets/img/Dia3.jpg"
-    ]
+    "assetEntrenamiento": "/assets/img/DIA3.jpg"
   },
   {
     "nivel": 4,
     "semana": 1,
     "titulo": "Día 4",
-    "assetEntrenamiento": "/assets/img/DIA4.webp",
-    "alternatives": [
-      "/assets/img/DIA4.jpg",
-      "/assets/img/Dia4.webp",
-      "/assets/img/Dia4.jpg"
-    ]
+    "assetEntrenamiento": "/assets/img/DIA4.webp"
   },
   {
     "nivel": 5,
     "semana": 1,
     "titulo": "Día 5",
-    "assetEntrenamiento": "/assets/img/DIA5.webp",
-    "alternatives": [
-      "/assets/img/DIA5.jpg",
-      "/assets/img/Dia5.webp",
-      "/assets/img/Dia5.jpg"
-    ]
+    "assetEntrenamiento": "/assets/img/DIA5.webp"
   },
   {
     "nivel": 6,
     "semana": 1,
     "titulo": "Día 6",
-    "assetEntrenamiento": "/assets/img/DIA6.webp",
-    "alternatives": [
-      "/assets/img/DIA6.jpg",
-      "/assets/img/Dia6.webp",
-      "/assets/img/Dia6.jpg"
-    ]
+    "assetEntrenamiento": "/assets/img/DIA6.webp"
   },
   {
     "nivel": 7,
     "semana": 1,
     "titulo": "Día 7",
-    "assetEntrenamiento": "/assets/img/DIA7.webp",
-    "alternatives": [
-      "/assets/img/DIA7.jpg",
-      "/assets/img/Dia7.webp",
-      "/assets/img/Dia7.jpg"
-    ]
+    "assetEntrenamiento": "/assets/img/DIA7.webp"
   },
   {
     "nivel": 8,
     "semana": 2,
     "titulo": "Día 8",
-    "assetEntrenamiento": "/assets/img/DIA8.webp",
-    "alternatives": [
-      "/assets/img/DIA8.jpg",
-      "/assets/img/Dia8.webp",
-      "/assets/img/Dia8.jpg"
-    ]
+    "assetEntrenamiento": "/assets/img/DIA8.webp"
   },
   {
     "nivel": 9,
     "semana": 2,
     "titulo": "Día 9",
-    "assetEntrenamiento": "/assets/img/DIA9.webp",
-    "alternatives": [
-      "/assets/img/DIA9.jpg",
-      "/assets/img/Dia9.webp",
-      "/assets/img/Dia9.jpg"
-    ]
+    "assetEntrenamiento": "/assets/img/DIA9.webp"
   },
   {
     "nivel": 10,
     "semana": 2,
     "titulo": "Día 10",
-    "assetEntrenamiento": "/assets/img/DIA10.webp",
-    "alternatives": [
-      "/assets/img/DIA10.jpg",
-      "/assets/img/Dia10.webp",
-      "/assets/img/Dia10.jpg"
-    ]
+    "assetEntrenamiento": "/assets/img/DIA10.webp"
   },
   {
     "nivel": 11,
     "semana": 2,
     "titulo": "Día 11",
-    "assetEntrenamiento": "/assets/img/DIA11.webp",
-    "alternatives": [
-      "/assets/img/DIA11.jpg",
-      "/assets/img/Dia11.webp",
-      "/assets/img/Dia11.jpg"
-    ]
+    "assetEntrenamiento": "/assets/img/DIA11.webp"
   },
   {
     "nivel": 12,
     "semana": 2,
     "titulo": "Día 12",
-    "assetEntrenamiento": "/assets/img/DIA12.webp",
-    "alternatives": [
-      "/assets/img/DIA12.jpg",
-      "/assets/img/Dia12.webp",
-      "/assets/img/Dia12.jpg"
-    ]
+    "assetEntrenamiento": "/assets/img/DIA12.webp"
   },
   {
     "nivel": 13,
     "semana": 2,
     "titulo": "Día 13",
-    "assetEntrenamiento": "/assets/img/DIA13.webp",
-    "alternatives": [
-      "/assets/img/DIA13.jpg",
-      "/assets/img/Dia13.webp",
-      "/assets/img/Dia13.jpg"
-    ]
+    "assetEntrenamiento": "/assets/img/DIA13.webp"
   },
   {
     "nivel": 14,
     "semana": 2,
     "titulo": "Día 14",
-    "assetEntrenamiento": "/assets/img/DIA14.webp",
-    "alternatives": [
-      "/assets/img/DIA14.jpg",
-      "/assets/img/Dia14.webp",
-      "/assets/img/Dia14.jpg"
-    ]
+    "assetEntrenamiento": "/assets/img/DIA14.webp"
   },
   {
     "nivel": 15,
     "semana": 3,
     "titulo": "Día 15",
-    "assetEntrenamiento": "/assets/img/DIA15.webp",
-    "alternatives": [
-      "/assets/img/DIA15.jpg",
-      "/assets/img/Dia15.webp",
-      "/assets/img/Dia15.jpg"
-    ]
+    "assetEntrenamiento": "/assets/img/DIA15.webp"
   },
   {
     "nivel": 16,
     "semana": 3,
     "titulo": "Día 16",
-    "assetEntrenamiento": "/assets/img/DIA16.webp",
-    "alternatives": [
-      "/assets/img/DIA16.jpg",
-      "/assets/img/Dia16.webp",
-      "/assets/img/Dia16.jpg"
-    ]
+    "assetEntrenamiento": "/assets/img/DIA16.webp"
   },
   {
     "nivel": 17,
     "semana": 3,
     "titulo": "Día 17",
-    "assetEntrenamiento": "/assets/img/DIA17.webp",
-    "alternatives": [
-      "/assets/img/DIA17.jpg",
-      "/assets/img/Dia17.webp",
-      "/assets/img/Dia17.jpg"
-    ]
+    "assetEntrenamiento": "/assets/img/DIA17.webp"
   },
   {
     "nivel": 18,
     "semana": 3,
     "titulo": "Día 18",
-    "assetEntrenamiento": "/assets/img/DIA18.webp",
-    "alternatives": [
-      "/assets/img/DIA18.jpg",
-      "/assets/img/Dia18.webp",
-      "/assets/img/Dia18.jpg"
-    ]
+    "assetEntrenamiento": "/assets/img/DIA18.webp"
   },
   {
     "nivel": 19,
     "semana": 3,
     "titulo": "Día 19",
-    "assetEntrenamiento": "/assets/img/DIA19.webp",
-    "alternatives": [
-      "/assets/img/DIA19.jpg",
-      "/assets/img/Dia19.webp",
-      "/assets/img/Dia19.jpg"
-    ]
+    "assetEntrenamiento": "/assets/img/DIA19.webp"
   },
   {
     "nivel": 20,
     "semana": 3,
     "titulo": "Día 20",
-    "assetEntrenamiento": "/assets/img/DIA20.webp",
-    "alternatives": [
-      "/assets/img/DIA20.jpg",
-      "/assets/img/Dia20.webp",
-      "/assets/img/Dia20.jpg"
-    ]
+    "assetEntrenamiento": "/assets/img/DIA20.webp"
   },
   {
     "nivel": 21,
     "semana": 3,
     "titulo": "Día 21",
-    "assetEntrenamiento": "/assets/img/DIA21.webp",
-    "alternatives": [
-      "/assets/img/DIA21.jpg",
-      "/assets/img/Dia21.webp",
-      "/assets/img/Dia21.jpg"
-    ]
+    "assetEntrenamiento": "/assets/img/DIA21.webp"
   },
   {
     "nivel": 22,
     "semana": 4,
     "titulo": "Día 22",
-    "assetEntrenamiento": "/assets/img/DIA22.webp",
-    "alternatives": [
-      "/assets/img/DIA22.jpg",
-      "/assets/img/Dia22.webp",
-      "/assets/img/Dia22.jpg"
-    ]
+    "assetEntrenamiento": "/assets/img/DIA22.webp"
   },
   {
     "nivel": 23,
     "semana": 4,
     "titulo": "Día 23",
-    "assetEntrenamiento": "/assets/img/DIA23.webp",
-    "alternatives": [
-      "/assets/img/DIA23.jpg",
-      "/assets/img/Dia23.webp",
-      "/assets/img/Dia23.jpg"
-    ]
+    "assetEntrenamiento": "/assets/img/DIA23.webp"
   },
   {
     "nivel": 24,
     "semana": 4,
     "titulo": "Día 24",
-    "assetEntrenamiento": "/assets/img/DIA24.webp",
-    "alternatives": [
-      "/assets/img/DIA24.jpg",
-      "/assets/img/Dia24.webp",
-      "/assets/img/Dia24.jpg"
-    ]
+    "assetEntrenamiento": "/assets/img/DIA24.webp"
   },
   {
     "nivel": 25,
     "semana": 4,
     "titulo": "Día 25",
-    "assetEntrenamiento": "/assets/img/DIA25.webp",
-    "alternatives": [
-      "/assets/img/DIA25.jpg",
-      "/assets/img/Dia25.webp",
-      "/assets/img/Dia25.jpg"
-    ]
+    "assetEntrenamiento": "/assets/img/DIA25.webp"
   },
   {
     "nivel": 26,
     "semana": 4,
     "titulo": "Día 26",
-    "assetEntrenamiento": "/assets/img/DIA26.webp",
-    "alternatives": [
-      "/assets/img/DIA26.jpg",
-      "/assets/img/Dia26.webp",
-      "/assets/img/Dia26.jpg"
-    ]
+    "assetEntrenamiento": "/assets/img/DIA26.webp"
   },
   {
     "nivel": 27,
     "semana": 4,
     "titulo": "Día 27",
-    "assetEntrenamiento": "/assets/img/DIA27.webp",
-    "alternatives": [
-      "/assets/img/DIA27.jpg",
-      "/assets/img/Dia27.webp",
-      "/assets/img/Dia27.jpg"
-    ]
+    "assetEntrenamiento": "/assets/img/DIA27.webp"
   },
   {
     "nivel": 28,
     "semana": 4,
     "titulo": "Día 28",
-    "assetEntrenamiento": "/assets/img/DIA28.webp",
-    "alternatives": [
-      "/assets/img/DIA28.jpg",
-      "/assets/img/Dia28.webp",
-      "/assets/img/Dia28.jpg"
-    ]
+    "assetEntrenamiento": "/assets/img/DIA28.webp"
   }
 ]
